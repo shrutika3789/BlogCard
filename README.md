@@ -1,0 +1,1 @@
+A card created with HTML and CSS is a design element commonly used to display content in an organized and visually appealing way. These cards can contain text, images, links, and other elements, and are used in a variety of contexts such as user profiles, products, news, etc. 
